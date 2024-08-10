@@ -17,3 +17,7 @@ Por último, el departamento de producción suma el mayor número de retardos de
 La empresa parece tener buena relación con sus empleados ya que no tiene una tasa alta de rotación, sus empleados suelen durar tiempos prolongados y la mayoría que ha ingresado no ha salido de la empresa.
 Se sugiere mantener supervisión sobre los tecnicos de producción por su alta frecuencia en retardos y a los encargados de ventas posteriormente. 
 Se recomienda mantener estrategías de conviviencia con y entre los empleados para mantener la baja tasa de rotación laboral.
+
+## Dashboard en Tableau
+Enlace: 
+https://public.tableau.com/views/CasoprcticoTableau_17232611420520/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
